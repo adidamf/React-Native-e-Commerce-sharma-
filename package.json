@@ -59,7 +59,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1000.4",
-    "@angular/cli": "10.0.4",
+    "@angular/cli": "15.1.4",
     "@angular/language-service": "10.0.6",
     "@angular/pwa": "0.803.21",
     "@angular/service-worker": "10.0.6",
